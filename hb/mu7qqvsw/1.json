@@ -1,0 +1,1 @@
+{"v":1,"n":1,"of":4,"step":"Pre-check","steps":["Pre-check","Claude Code: 3 items","Post-check","Open PR"],"state":"running","t":0,"tok":null,"cost":null,"pr":"https://github.com/mhbealey/green-hat/pull/10","id":"2026-09-19-b01","note":"install run — tokens and cost appear from the next run on"}
