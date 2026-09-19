@@ -1,0 +1,1 @@
+{"v":1,"n":2,"of":6,"step":"Item 1: Install the live tracker.","steps":["Pre-check","Item 1: Install the live tracker.","Item 2: Let the build continue.","Item 3: Stop the frozen-number bug recurring.","Post-check","Open PR"],"state":"running","t":44,"tok":457692,"tok_in":11941,"tok_out":108,"cost":1.4671,"model":"claude-opus-4-8","paused":false,"final":false}
