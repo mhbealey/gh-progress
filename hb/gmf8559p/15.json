@@ -1,0 +1,1 @@
+{"v":1,"n":3,"of":4,"step":"Post-check","at":"2026-09-23T21:59:57Z","steps":["Pre-check","Item 1: Make article/budgets.py's fmt() return the GAP marker for a missing number instead of the string \"None\".","Post-check","Open PR"],"state":"done","t":85,"tok":1062285,"tok_in":12173,"tok_out":197,"cost":0.5962,"model":"claude-opus-4-8","paused":false,"final":true}
