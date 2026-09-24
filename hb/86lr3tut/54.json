@@ -1,0 +1,1 @@
+{"v":1,"n":3,"of":4,"step":"Post-check","at":"2026-09-24T01:36:35Z","steps":["Pre-check","Item 1: Close verify-002 the way D204 ruled it: REQUIRE the registry path.","Post-check","Open PR"],"state":"done","t":348,"tok":4395947,"tok_in":10034,"tok_out":358,"cost":1.9034,"model":"claude-opus-4-8","paused":false,"final":true}
