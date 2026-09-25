@@ -44,5 +44,21 @@
     "ok": true
    }
   ]
+ },
+ {
+  "at": "2026-09-25T05:06:12.623Z",
+  "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+  "w": 408,
+  "h": 1091,
+  "build": "",
+  "events": [
+   {
+    "t": 87958,
+    "kind": "call",
+    "what": "record",
+    "ms": 11335,
+    "ok": true
+   }
+  ]
  }
 ]
