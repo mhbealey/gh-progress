@@ -1,0 +1,25 @@
+[
+ {
+  "at": "2026-09-25T04:38:59.642Z",
+  "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+  "w": 408,
+  "h": 1410,
+  "build": "",
+  "events": [
+   {
+    "t": 9942,
+    "kind": "call",
+    "what": "open_planner",
+    "ms": 9941,
+    "ok": true
+   },
+   {
+    "t": 9950,
+    "kind": "render",
+    "what": "deck",
+    "ms": 8,
+    "ok": true
+   }
+  ]
+ }
+]
