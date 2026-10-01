@@ -21,5 +21,42 @@
     "ok": true
    }
   ]
+ },
+ {
+  "at": "2026-10-01T02:29:49.796Z",
+  "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+  "w": 408,
+  "h": 843,
+  "build": "",
+  "events": [
+   {
+    "t": 16738,
+    "kind": "tap",
+    "what": "open:verify-002",
+    "ms": null,
+    "ok": false
+   },
+   {
+    "t": 16741,
+    "kind": "render",
+    "what": "card:verify-002",
+    "ms": 3,
+    "ok": true
+   },
+   {
+    "t": 20132,
+    "kind": "tap",
+    "what": "back",
+    "ms": null,
+    "ok": false
+   },
+   {
+    "t": 20136,
+    "kind": "render",
+    "what": "deck",
+    "ms": 4,
+    "ok": true
+   }
+  ]
  }
 ]
